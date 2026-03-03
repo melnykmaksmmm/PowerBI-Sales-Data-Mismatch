@@ -18,7 +18,6 @@ This dashboard compares Value Sales across two databases (NCB and MASH). Instead
 
 ## 💻 Dashboard Preview
 ![Dashboard Preview](dashboard-main-1.png)
-![Dashboard Preview](dashboard-main-2.png)
 
 ---
 
